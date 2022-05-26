@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @R0mbertus
-- 👀 I’m interested in @R0mbertus
+Currently in first year of Computer Science @ VU 
