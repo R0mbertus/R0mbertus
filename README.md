@@ -4,7 +4,7 @@
 
 Mainly interested in low-level stuff, programming languages, and security.
 
-_Checkout my website:_ [🌐](r0mbertus.github.io)
+_Checkout my website:_ [🌐](https://r0mbertus.github.io/)
 
 <div align="center">
     <img src="https://github.com/R0mbertus/R0mbertus/blob/main/readme/netscape.gif" alt="First GIF" style="height: 32px;">
