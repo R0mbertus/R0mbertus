@@ -2,7 +2,7 @@
   Rombertus
 </h1>
 
-Mainly interested in low-level stuff, programming languages, and security.
+Mainly working on infrastructure, security, low-level magic, and/or more.
 
 _Checkout my website:_ [🌐](https://r0mbertus.github.io/)
 
